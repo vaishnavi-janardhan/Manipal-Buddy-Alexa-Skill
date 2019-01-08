@@ -1,0 +1,129 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "manipal buddy",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AboutIntent",
+                    "slots": [],
+                    "samples": [
+                        "Manipal What",
+                        "Manipal Info",
+                        "Info about Manipal",
+                        "Explain about Manipal",
+                        "Manipal Information",
+                        "Something about Manipal",
+                        "Manipal",
+                        "What is Manipal",
+                        "Tell me about Manipal",
+                        "about Manipal"
+                    ]
+                },
+                {
+                    "name": "AboutMaheIntent",
+                    "slots": [],
+                    "samples": [
+                        "I want to know about mahe",
+                        "tell me about Mahe",
+                        "Manipal Academy",
+                        "About Manipal Education",
+                        "About Manipal Academy of Higher Eduaction",
+                        "About Mahe",
+                        "About Manipal University"
+                    ]
+                },
+                {
+                    "name": "RankIntent",
+                    "slots": [],
+                    "samples": [
+                        "i want to know the rankings of MAHE",
+                        "Manipal University Ranking",
+                        "University Rank",
+                        "MAHE Rankings"
+                    ]
+                },
+                {
+                    "name": "SocialLifeIntent",
+                    "slots": [],
+                    "samples": [
+                        "An insight on the social life",
+                        "how is the social life in Manipal",
+                        "manipal life",
+                        "social life in manipal",
+                        "places to visit",
+                        "sightseeing",
+                        "what to see",
+                        "places around manipal",
+                        "life in manipal",
+                        "social life"
+                    ]
+                },
+                {
+                    "name": "CoursesIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me about the courses offered",
+                        "what to study",
+                        "study",
+                        "courses",
+                        "courses offered",
+                        "what can I learn here",
+                        "what courses are offered",
+                        "What to study here",
+                        "Colleges",
+                        "Mahe Institutions",
+                        "Manipal Courses"
+                    ]
+                },
+                {
+                    "name": "ScholarshipIntent",
+                    "slots": [],
+                    "samples": [
+                        "What are the scholarships available",
+                        "list of Manipal scholarships",
+                        "scholarships in Mahe",
+                        "fee concessions in Manipal",
+                        "scholarships offered in Manipal"
+                    ]
+                },
+                {
+                    "name": "ExamIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me about the entrane exams",
+                        "what are the exams i need to register for",
+                        "entrance",
+                        "exam",
+                        "admission in Manipal University",
+                        "admission to MU",
+                        "manipal entrance test",
+                        "Mahe entrance test",
+                        "how to get admission in Manipal",
+                        "Entrance exam"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
